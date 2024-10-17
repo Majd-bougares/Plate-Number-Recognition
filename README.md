@@ -30,6 +30,7 @@ The system can be used with both images and videos.
 ## Results
 After processing, the system displays each frame or image with detected plates highlighted and the plate numbers extracted using OCR. Processed results can also be saved to a specified directory.
 
+For a video demonstration of the system in action, check out the example here: https://drive.google.com/drive/folders/19AnplqOkXvmOKopZqCFi8z1lusT3lk3-?hl=fr
 ### Example Output
 *Provide example images showing the system's detection and recognition output.*
 
